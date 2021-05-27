@@ -26,6 +26,8 @@
 
 body {
     background-color: var(--blck-lightest);
+    background-color: #3c3f48;
+    background-color: #191a1e;
 }
 
 .body-bg {
@@ -99,6 +101,8 @@ ol, ul {
 }
 .content-header {
     text-align: center;
+    background-color: #36393f;
+    border-radius: 12px 12px 0 0;
 }
 .header-info {
     padding: 1.5rem 1.85rem 0.5rem;
@@ -109,6 +113,7 @@ ol, ul {
     color: #5e85e0;
     color: #7a9dec;
     color: #6b6e73;
+    color: #e2e6ee;
 }
 .header-img {
     width: 100%;
@@ -133,6 +138,7 @@ ol, ul {
     background-color: var(--blck);
     padding: 2rem 1rem;
     padding: 2rem 0 0;
+    padding: 0;
     text-align: center;
     width: 6%;
 }
@@ -156,7 +162,12 @@ ol, ul {
     border-left: 4px solid #4f6794;
     border-left: 4px solid #4c5c7b;
     padding-left: 12px;
-    border-radius: 6px;
+    border-radius: 8px 0 0 8px;
+    background-color: #191a1e;
+    background-color: #17181b;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    /*background-color: #131316;*/
 }
 .server-listing-icon.active:hover {
     border-left: 4px solid #6291ea;
@@ -355,6 +366,7 @@ ol, ul {
     color: #8193bb;
     color: #7d89a5;
     color: #505358;
+    color: #71757c;
 }
 
 .main-content-body {
