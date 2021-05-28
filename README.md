@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliamagic-circle-600px.png" width="20%" style="border-radius: 50%; margin-left: 20px;">
+<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliamagic-circle-600px.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
 <div>
 <h2>Chanya Louise McKinsey</h2>
 <p>
@@ -9,7 +9,7 @@
 </p>
 </div>
 
-###  A little more about me...
+###  A little about me
 
 ```javascript
 const Chanya = {
