@@ -1,4 +1,4 @@
-<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/paimonshy-circle.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
+<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliaflower-circle.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
 <div>
 <h2>Chanya Nicole Louise McKinsey</h2>
 <p>
