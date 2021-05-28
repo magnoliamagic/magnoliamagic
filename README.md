@@ -1,6 +1,6 @@
 <img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliaflower-circle.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
 <div>
-<h2>Lihua Chao-xing (丽华吵醒)</h2>
+<h2>Chanya N. L. McKinsey</h2>
 <p>
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
@@ -14,7 +14,7 @@
 
 ```javascript
 const Chanya = {
-  fullName: "Lihua Chao-xing (丽华吵醒)",
+  fullName: "Chanya Nicole Louise McKinsey",
   genderAge: "Female, 25",
   business: "Magnolia Magic Ltd. — www.magnoliamagic.com",
   techSkills: {
