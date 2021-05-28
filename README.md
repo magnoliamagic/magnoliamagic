@@ -5,7 +5,7 @@
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
         <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a> &  
-        <a href="https://magnoliahub.com">Magnolia Hub</a> 
+        <a href="https://magnoliamagichub.com">Magnolia Magic Hub</a> 
     </em>
 </p>
 </div>
@@ -28,7 +28,7 @@ const Chanya = {
     cupido: "www.cupido.no",
   },
   projectsInProgress: {
-    website: "Magnolia Hub — www.magnoliahub.com",
+    website: "Magnolia Magic Hub — www.magnoliamagichub.com",
     discotBot: "Aeliana — dsc.gg/aeliana"
   },
   personalChallenge: "I am doing #111CodeChallenge that I will " + 
