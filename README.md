@@ -3,8 +3,8 @@
 <h2>Chanya (Lihua Chao-xing – 丽华吵醒)</h2>
 <p>
     <em>
-        Junior Full-stack Developer and UX/UI Design Consultant at 
-        <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a> &  
+        Junior Full-stack Developer and UX/UI Designer & Consultant at 
+        <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a> and  
         <a href="https://magnoliamagichub.com">Magnolia Magic Hub</a> 
     </em>
 </p>
