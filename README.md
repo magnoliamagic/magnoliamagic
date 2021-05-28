@@ -1,6 +1,6 @@
 <img align='right' src="https://avatars.githubusercontent.com/u/84866915?v=4" width="20%" style="border-radius: 50%; margin-left: 20px;">
 <div>
-<h2> Hi, I'm Chanya McKinsey</h2>
+<h2>Chanya Nicole Louise McKinsey</h2>
 <p>
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
