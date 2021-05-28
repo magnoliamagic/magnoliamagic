@@ -1,21 +1,19 @@
-<h2> Hi, I'm Chanya Louise McKinsey</h2>
-<img 
-    align='right' 
-    src="https://avatars.githubusercontent.com/u/84866915?v=4" 
-    style="max-width: 14%; border-radius: 50%"
->
+<img align='right' src="https://avatars.githubusercontent.com/u/84866915?v=4" width="20%" style="border-radius: 50%; margin-left: 20px;">
+<div>
+<h2> Hi, I'm Chanya McKinsey</h2>
 <p>
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
         <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a>
     </em>
 </p>
+</div>
 
 ###  A little more about me...
 
 ```javascript
 const Chanya = {
-  fullName: "Chanya Thannarakorn",
+  fullName: "Chanya Nicole Louise McKinsey",
   genderAge: "Female, 25",
   business: "Magnolia Magic Ltd. — www.magnoliamagic.com",
   techSkills: {
@@ -29,7 +27,7 @@ const Chanya = {
     cupido: "www.cupido.no",
   },
   projectsInProgress: {
-    website: "Magnolia Magic Code Diary — www.mmcodediary.com",
+    website: "Magnolia Blossom: Code & Design Consulting — www.mmx.com",
     discotBot: "Aeliana — dsc.gg/aeliana"
   },
   personalChallenge: "I am doing #111CodeChallenge that I will " + 
