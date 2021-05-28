@@ -1,10 +1,11 @@
-<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliamagic-circle-600px.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
+<img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/paimonshy-circle.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
 <div>
 <h2>Chanya Louise McKinsey</h2>
 <p>
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
-        <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a>
+        <a href="https://magnoliamagic.com">Magnolia Magic Ltd.</a> &  
+        <a href="https://magnoliamagic.com">Magnolia Blossom</a> 
     </em>
 </p>
 </div>
