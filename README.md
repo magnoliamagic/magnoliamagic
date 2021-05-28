@@ -1,6 +1,6 @@
 <img align='right' src="https://raw.githubusercontent.com/magnoliamagic/magnoliamagic/main/images/magnoliaflower-circle.png" width="16%" style="border-radius: 50%; margin-left: 20px;">
 <div>
-<h2>Chanya Chanya Kóng Yu</h2>
+<h2>Chanya Kóng Yu</h2>
 <p>
     <em>
         Junior Full-stack Developer and UX/UI Design Consultant at 
@@ -14,7 +14,7 @@
 
 ```javascript
 const Chanya = {
-  fullName: "Chanya Chanya Kóng Yu",
+  fullName: "Chanya Kóng Yu",
   genderAge: "Female, 25",
   business: "Magnolia Magic Ltd. — www.magnoliamagic.com",
   techSkills: {
