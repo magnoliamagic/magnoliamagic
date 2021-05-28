@@ -28,7 +28,7 @@ const Chanya = {
     cupido: "www.cupido.no",
   },
   projectsInProgress: {
-    website: "Magnolia Hub: Code & Design Consulting — www.magnoliahub.com",
+    website: "Magnolia Hub — www.magnoliahub.com",
     discotBot: "Aeliana — dsc.gg/aeliana"
   },
   personalChallenge: "I am doing #111CodeChallenge that I will " + 
