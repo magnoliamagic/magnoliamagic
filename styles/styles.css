@@ -50,6 +50,8 @@ body {
     margin-bottom: .05rem;
     color: white;
     color: #c3c8d2;
+    color: #ffd9de;
+    /*color: #b1b2ce;*/
 }
 .h2, h2 {
     font-size: 1.475rem;
@@ -105,7 +107,9 @@ ol, ul {
     border-radius: 12px 12px 0 0;
 }
 .header-info {
-    padding: 1.5rem 1.85rem 0.5rem;
+    padding: 1.5rem 1.85rem 1.25rem;
+    display: flex;
+    justify-content: center;
 }
 .content-header .brandname {
     color: #7289DA;
@@ -136,8 +140,8 @@ ol, ul {
 }
 .col-server-listing{
     background-color: var(--blck);
-    padding: 2rem 1rem;
-    padding: 2rem 0 0;
+    /*padding: 2rem 1rem;*/
+    /*padding: 2rem 0 0;*/
     padding: 0;
     text-align: center;
     width: 6%;
@@ -163,7 +167,7 @@ ol, ul {
     border-left: 4px solid #4c5c7b;
     padding-left: 12px;
     border-radius: 8px 0 0 8px;
-    background-color: #191a1e;
+    /*background-color: #191a1e;*/
     background-color: #17181b;
     padding-top: 12px;
     padding-bottom: 12px;
@@ -181,10 +185,10 @@ ol, ul {
 }
 .header-content-title {
     /*border-bottom: 1px solid #43474e;*/
-    background-color: #2f3136;
-    background-color: var(--blck);
+    /*background-color: #2f3136;*/
+    /*background-color: var(--blck);*/
     background-color: #1a1c1e;
-    padding: 1.25rem 1rem;
+    /*padding: 1.25rem 1rem;*/
     padding: .5rem 1rem 1.5rem;
     /*border-bottom: 2px solid #3c3f46;*/
     /*border-bottom: 2px solid #36393f;*/
@@ -204,12 +208,13 @@ ol, ul {
 }
 .index-title {
     background-color: rgb(32 34 37 / 40%);
-    color: #d0d4dc;
+    /*color: #d0d4dc;*/
     color: #b9bdc5;
-    padding: 2rem 1.25rem .9375rem;
+    padding: 27px 20px;
 }
 .index-title h4 {
     font-size: 1.25rem;
+    margin-bottom: 0;
 }
 .course-members {
     background-color: var(--blck-medium);
