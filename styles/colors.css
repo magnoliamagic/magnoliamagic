@@ -1,0 +1,25 @@
+:root {
+    --default: #7289da;
+    --default-light: #879add;
+    --grey: #2c2f33;
+    --grey-dark: #23272a;
+
+
+    --blck-drk: #191a1e;
+    --blck-lght: #36393f;
+
+
+    --blck: #202225;
+    --blck-dark: #141517;
+    --blck-medium: #2f3136;
+    --blck-lighter: #3e4148;
+    --blck-lightest: #4c4f58;
+
+    --blue1: #3c4b6a;
+    --blue2: #324367;
+
+    --blck-rgba: rgba(32, 34, 37 , 1);
+    --blck-dark-rgba: rgba(20, 21, 23, 1);
+    --blck-medium-rgba: rgba(47, 49, 54, 1);
+    --blck-light-rgba: rgba(54, 57, 63, 1);
+}

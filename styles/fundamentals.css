@@ -1,0 +1,47 @@
+@import "colors.css";
+
+*. *::before, *::after {
+   box-sizing: border-box;
+}
+body {
+   background-color: #191a1e;
+}
+.h1, h1 {
+    font-size: 3rem;
+    margin-bottom: .05rem;
+    color: #ffd9de;
+}
+.h2, h2 {
+    font-size: 1.475rem;
+    color: #d0d4dc;
+    border-bottom: 3px solid rgba(32, 34, 37, .5);
+    padding-bottom: 20px;
+}
+.h3, h3 {
+    font-size: 19px;
+    margin: 25px 0 15px;
+    color: #a9acb3;
+}
+.h5, h5 {
+    color: #c3c8d2;
+    font-size: 1rem;
+    margin-bottom: .75rem;
+}
+p {
+    color: #bdbdbd;
+    line-height: 1.9;
+    margin-bottom: .625rem;
+    font-size: 15.5px;
+}
+a {
+    color: #6b9af3;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover {
+    color: #5580d2;
+}
+ol, ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
