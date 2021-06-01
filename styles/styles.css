@@ -117,6 +117,7 @@
 .category-indicator {
     background-color: #202225;
     background-color: rgba(32, 34, 37, .9);
+    background-color: rgba(85, 95, 111, 0.5);
     padding: 1px 6px 2px;
     border-radius: 3px;
     margin-right: 4px;
@@ -158,6 +159,7 @@
 .post-title-indicator {
     background-color: #25282d;
     background-color: rgba(32, 34, 37, .5);
+    background-color: rgba(85, 95, 111, 0.4);
     border-radius: 6px;
     padding: 2px 8px 4px;
     margin-right: 6px;
