@@ -1,13 +1,14 @@
 @import "fundamentals.css";
 @import "colors.css";
+@import "accordion.css";
 
 .page-background {
     padding: 3rem;
 }
 .content-block {
     background-color: #1a1c1f;
+    border-radius: 28px;
     box-shadow: 0 5px 30px rgba(12, 9, 7, .8);
-    border-radius: 12px;
     width: 100%;
     max-width: 1440px;
     margin: 0 auto 2rem ;
@@ -17,7 +18,7 @@
 .content-header {
     text-align: center;
     background-color: #36393f;
-    border-radius: 12px 12px 0 0;
+    border-radius: 28px 28px 0 0;
 }
 .header-info {
     padding: 1.5rem 1.85rem 1.25rem;
@@ -98,7 +99,7 @@
 }
 .course-index {
     background-color: #2f3136;
-    width: 26%;
+    width: 24%;
 }
 .course-index-title {
     background-color: rgba(32, 34, 37, .4);
@@ -161,9 +162,10 @@
     padding: 2px 8px 4px;
     margin-right: 6px;
     font-size: 1.35rem;
-    color: #8f9ed4;
-    color: #919dc7;
-    color: #a2accf;
+    /*color: #8f9ed4;*/
+    /*color: #919dc7;*/
+    /*color: #a2accf;*/
+    /*color: #abb2c8;*/
 }
 .content-body img.full {
     width: 100%;
@@ -172,15 +174,18 @@
 /*----- # footer section -----*/
 .footer {
     background-color: #202225;
+    border-radius:  0 0 28px 28px;
 }
 .footer a {
     color: #5071af;
+    color: #678cc4d9;
 }
 .footer a:hover {
     color: #5d81c5;
+    color: #678cc4;
 }
 .developer {
     color: #5f636d;
     font-size: 15px;
-    padding: 0.25rem 1rem;
+    padding: 6px 20px;
 }

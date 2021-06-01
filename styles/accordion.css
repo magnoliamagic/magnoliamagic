@@ -1,0 +1,126 @@
+dt {
+    font-weight: 500;
+    padding: 1px 16px;
+}
+
+dd p {
+    color: #212529;
+    color: #292e32;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    font-size: 18px;
+    line-height: 2;
+    margin-top: 20px;
+    /* padding-left: 30px; */
+}
+
+.item {
+    /*width: 200px;*/
+    color: #fff;
+    /*background: #333;*/
+    /*background: #2f3136;*/
+    background-color: rgba(47, 49, 54, .9);
+    border-bottom: 2px solid rgba(32, 34, 37, .4);
+    border-radius: 6px;
+    /*text-align: center;*/
+    font-size: 15px;
+    line-height: 2;
+    color: #fff;
+    color: #7291da;
+}
+
+.item.closed {
+    border-radius: 7px;
+    transition: 0.3s;
+    /*opacity: 0.9;*/
+    color: #ccc;
+    /*color: #8296dc;*/
+    /*color: #8ea1e2;*/
+    /*color: #94a5dd;*/
+    /*color: #7e9adc;*/
+    color: #9aacd9;
+    color: #9ab3d9;
+}
+
+.item:hover {
+    cursor: pointer;
+    opacity: 1;
+    border-bottom: 2px solid rgba(32, 34, 37, .6);
+    color: #fff;
+    color: rgba(255, 255, 255, .6);
+    color: #94a5dd;
+    color: #7289da;
+    color: #7291da;
+    color: #749cda;
+    /*color: #c0cbeb;*/
+    /*color: #a2b6e4;*/
+    /*color: #a2accf;*/
+    background-color: rgba(32, 34, 37, .5);;
+}
+
+.item {
+    border-radius: 6px 6px 0 0;
+    transition: 0.7s;
+    position: relative;
+}
+
+.item::after {
+    content: '+';
+    transform: rotate(45deg);
+    font-size: 20px;
+    line-height: 1;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    transition: 0.7s;
+}
+
+.item.closed::after {
+    transform: rotate(0deg);
+    transition: 0.3s;
+}
+
+/* .menu .name { */
+.name {
+    /*width: 200px;*/
+    margin-bottom: 20px;
+    padding: 0 16px 0;
+    /*padding: 11px 16px 16px;*/
+    background: #efefef;
+    background: #d4d7df;
+    border-radius: 0 0 6px 6px;
+    font-size: 14px;
+    line-height: 1.8;
+    /*text-align: center;*/
+    overflow: hidden;
+    transition: height 0.7s;
+}
+
+/* .name.closed { */
+.item.closed + .name {
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 8px;
+    /*transition: height 0.3s;*/
+}
+
+dd {
+    padding: 5px 0 0 0;
+    /*padding: 16px 0 0 0;*/
+    /*padding: 15px 20px;*/
+    margin: 0;
+    /* background: #efefef; */
+}
+dd:first-child {
+    padding: 16px 0 0 0;
+}
+dd:last-child {
+    padding: 0 0 16px;
+}
